@@ -30,6 +30,7 @@ Pod::Spec.new do |s|
   }
 
   s.dependency "CryptoSwift", "0.9.0"
-  s.dependency "BigInt", "3.0.0"
+  s.dependency "BigInt", "3.1"
   s.dependency "GRKOpenSSLFramework"
+
 end
